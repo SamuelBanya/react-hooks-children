@@ -1,0 +1,68 @@
+Info 0    [19:27:19.180] Starting TS Server
+Info 1    [19:27:19.181] Version: 4.7.4
+Info 2    [19:27:19.182] Arguments: /Users/samuelbanya/.nvm/versions/node/v16.14.2/bin/node /Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/g1/tzqw879134sg6jrks5nf5nhm0000gn/T/d320ddd5fc988ea362196e89a6315b59/tscancellation*
+Info 3    [19:27:19.182] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [19:27:19.182] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [19:27:19.196] Format host information updated
+Info 6    [19:27:19.208] Search path: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/src/components
+Info 7    [19:27:19.210] For info: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/src/components/Container.js :: No config files found.
+Info 8    [19:27:19.217] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [19:27:20.718] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1500.3049399927258ms
+Info 10   [19:27:20.718] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [19:27:20.718] 	Files (132)
+
+Info 12   [19:27:20.718] -----------------------------------------------
+Info 13   [19:27:20.731] AutoImportProviderProject: found 2 root files in 2 dependencies in 9.417915999889374 ms
+Info 14   [19:27:20.733] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [19:27:21.297] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 564.2680969983339ms
+Info 16   [19:27:21.297] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [19:27:21.298] 	Files (61)
+
+Info 18   [19:27:21.298] -----------------------------------------------
+Info 19   [19:27:24.546] Search path: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/src/components
+Info 20   [19:27:24.547] For info: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/src/components/App.js :: No config files found.
+Info 21   [19:27:24.548] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 22   [19:27:24.815] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 266.9348840042949ms
+Info 23   [19:27:24.816] Project '/dev/null/inferredProject2*' (Inferred)
+Info 24   [19:27:24.816] 	Files (133)
+
+Info 25   [19:27:24.816] -----------------------------------------------
+Info 26   [19:27:24.824] AutoImportProviderProject: found 2 root files in 2 dependencies in 6.879964001476765 ms
+Info 27   [19:27:24.826] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject2*
+Info 28   [19:27:24.867] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject2* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 40.732554003596306ms
+Info 29   [19:27:24.867] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 30   [19:27:24.867] 	Files (61)
+
+Info 31   [19:27:24.867] -----------------------------------------------
+Info 32   [19:27:24.870] `remove Project::
+Info 33   [19:27:24.870] Project '/dev/null/inferredProject1*' (Inferred)
+Info 34   [19:27:24.870] 	Files (132)
+
+Info 35   [19:27:24.870] -----------------------------------------------
+Info 36   [19:27:24.870] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 37   [19:27:24.870] 	Files (61)
+
+Info 38   [19:27:24.870] -----------------------------------------------
+Info 39   [19:30:51.390] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 40   [19:30:51.677] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 286.67877899855375ms
+Info 41   [19:30:51.678] Project '/dev/null/inferredProject2*' (Inferred)
+Info 42   [19:30:51.678] 	Files (136)
+
+Info 43   [19:30:51.678] -----------------------------------------------
+Info 44   [19:30:51.678] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 45   [19:30:51.678] 	Files (61)
+
+Info 46   [19:30:51.678] -----------------------------------------------
+Info 47   [19:30:52.036] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 48   [19:30:52.089] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 3 structureChanged: true structureIsReused:: Not Elapsed: 52.3364530056715ms
+Info 49   [19:30:52.089] Project '/dev/null/inferredProject2*' (Inferred)
+Info 50   [19:30:52.089] 	Files (135)
+
+Info 51   [19:30:52.089] -----------------------------------------------
+Info 52   [19:30:52.089] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 53   [19:30:52.089] 	Files (61)
+
+Info 54   [19:30:52.089] -----------------------------------------------
+Info 55   [19:30:54.288] Before ensureProjectForOpenFiles:
+Info 56   [19:30:54.289] After ensureProjectForOpenFiles:
+Info 57   [19:30:54.290] got projects updated in background, updating diagnostics for /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/src/components/Container.js,/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-children/src/components/App.js
